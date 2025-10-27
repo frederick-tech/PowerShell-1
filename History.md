@@ -1,4 +1,4 @@
-PS C:\Users\wilder\Documents> Get-History
+PS C:\Users\wilder\Documents> Get-History                                                                                                                                                                                        
 Id CommandLine 
 
 ---
